@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.venv/
+filter/
+__pycache__/
+*.py[cod]
+output/
+
